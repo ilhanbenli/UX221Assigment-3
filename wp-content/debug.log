@@ -1,1 +1,4 @@
 [14-Mar-2025 18:13:32 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221Assigment-3/.wordpress/wp-includes/pluggable.php on line 1625
+[14-Mar-2025 18:42:46 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assigment-3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[14-Mar-2025 18:42:58 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assigment-3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[14-Mar-2025 19:12:07 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assigment-3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18

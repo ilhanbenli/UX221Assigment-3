@@ -1,0 +1,12 @@
+/*
+Theme Name:     26-2
+Description:    a new 26-2 theme
+Author:         ilhanbenli
+Template:       twentysixteen
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+header a, #content a{
+    color: red;
+}
