@@ -12,6 +12,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/ski-goggles-with-dual-lens-59-99/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/motorcycle-riding-goggles-39-99/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/tactical-military-goggles-49-99/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/vr-gaming-goggles-199-99/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/author/ilhanbenli/
         </loc>
     </url>
